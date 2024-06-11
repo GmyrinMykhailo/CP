@@ -1,0 +1,87 @@
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\ActorsApplication.exe.config
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\ActorsApplication.exe
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\ActorsApplication.pdb
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.csproj.AssemblyReference.cache
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\MainWindow.g.cs
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\App.g.cs
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication_MarkupCompile.cache
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication_MarkupCompile.lref
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\MainWindow.baml
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.g.resources
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.Properties.Resources.resources
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.csproj.GenerateResource.cache
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.csproj.CoreCompileInputs.cache
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.exe
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.pdb
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\Concerts.g.cs
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\Concerts.baml
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\System.Buffers.dll
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\System.Memory.dll
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\System.Buffers.xml
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\System.Memory.xml
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.csproj.CopyComplete
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\EntityFramework.dll
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\System.Data.SQLite.dll
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\EntityFramework.xml
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\bin\Debug\System.Data.SQLite.xml
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\ChangeConcert.g.cs
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\ChangeConcert.baml
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\AddPlace.g.cs
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\AddPlace.baml
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\AddActor.g.cs
+C:\Users\м\source\repos\ActorsApplication\ActorsApplication\obj\Debug\AddActor.baml
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\ActorsApplication.exe.config
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\ActorsApplication.exe
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\ActorsApplication.pdb
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\EntityFramework.dll
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\System.Buffers.dll
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\System.Data.SQLite.dll
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\System.Memory.dll
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\EntityFramework.xml
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\System.Buffers.xml
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\System.Data.SQLite.xml
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\System.Memory.xml
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.csproj.AssemblyReference.cache
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\AddActor.g.cs
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\AddPlace.g.cs
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\ChangeConcert.g.cs
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\Concerts.g.cs
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\MainWindow.g.cs
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\App.g.cs
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication_MarkupCompile.cache
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication_MarkupCompile.lref
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\AddActor.baml
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\AddPlace.baml
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\ChangeConcert.baml
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\Concerts.baml
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\MainWindow.baml
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.g.resources
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.exe
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\ActorsApplication.pdb
+C:\Users\mihai\OneDrive\Рабочий стол\ActorsApplication\ActorsApplication\obj\Debug\ActorsAp.813EA7F9.Up2Date
